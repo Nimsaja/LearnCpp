@@ -22,6 +22,8 @@ int main()
 
     return5(); //is ignored
 
+    // std::cout << doPrint() << std::endl;
+
     std::cout << "Ending main()" << std::endl;
 
     return 0;
