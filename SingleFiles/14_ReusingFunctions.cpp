@@ -9,12 +9,16 @@ int getValueFromUser()
     return a;
 }
 
+int doubleNumber(int x)
+{
+    return 2*x;
+}
+
 int main()
 {
     int x = getValueFromUser();
-    int y = getValueFromUser();
 
-    std::cout << x << " + " << y << " = " << x + y << std::endl;
+    std::cout << "double of " << x << ": " << doubleNumber(x) << std::endl;
 
     return 0;
 }
