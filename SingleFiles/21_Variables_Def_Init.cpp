@@ -26,9 +26,12 @@ int main()
 
     value_u = 17; // copy assignment
 
+    unsigned int value = 4; // can only have positive numbers -> do not use unless you really need a positive integer with a size of 256!
+
     std::cout << value_c << std::endl;
     std::cout << value_d << std::endl;
     std::cout << value_u << std::endl;
+    std::cout << value << std::endl;
 
     sizeOfTypes();
 
