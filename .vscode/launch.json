@@ -11,7 +11,7 @@
             "program": "${workspaceFolder}/a.out",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "${workspaceFolder}/18_MultipleFiles/",
+            "cwd": "${workspaceFolder}/111_Debugging/",
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
