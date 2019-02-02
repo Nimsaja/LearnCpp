@@ -9,3 +9,5 @@ g++ -pedantic-errors -Wall -Weffc++ -Wextra -Wsign-conversion -o HelloWorld Hell
 Include other "search directories" for header files
 
 g++ -o main -I /source/includes main.cpp
+
+g++ -std=gnu++11 ... -> use c++11

@@ -7,7 +7,7 @@
         "command": "g++",
         "args": [
           "-g",
-          "${workspaceFolder}/18_MultipleFiles/*.cpp"
+          "${workspaceFolder}/111_Debugging/*.cpp"
         ],
         "group": {
           "kind": "build",
