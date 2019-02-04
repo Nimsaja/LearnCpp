@@ -10,6 +10,6 @@
 			"\treturn 0;",
 			"}"
 	 	],
-	 	"description": "int main()"
+	 	"description": "int main( )"
 	 }
 }

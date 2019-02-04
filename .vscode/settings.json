@@ -23,5 +23,6 @@
         "system_error": "cpp",
         "type_traits": "cpp",
         "typeinfo": "cpp"
-    }
+    },
+    "cquery.cacheDirectory": "${workspaceFolder}/.vscode/cquery_cached_index/"
 }
